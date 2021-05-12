@@ -80,7 +80,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/houdangdang/HBijkplayer/blob/master/IJKMediaPlayer.tar.gz", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/houdangdang/HBijkplayer/blob/master/IJKMediaPlayer.tar.gz" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
